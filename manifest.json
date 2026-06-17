@@ -1,0 +1,10 @@
+{
+  "name": "TOV SoulLift - RCCG Tabernacle of Victory",
+  "short_name": "TOV SoulLift",
+  "description": "Lift your soul: Global Prayer Wall & Bible Study | Matt 7:23",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#008000",
+  "theme_color": "#008000",
+  "orientation": "portrait"
+}
